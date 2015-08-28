@@ -1,0 +1,59 @@
+﻿body {
+    font-family:Arial;
+background-color:red;
+}
+
+#myheader
+{
+    /*background-image:url('../assets/Others/mybg1.fw.png'); 
+    background-repeat:repeat;*/
+    background-color:#0C1347;/*#809926 #161F27 #1b2ba8 #111C68*/
+    width:100%; 
+    height:auto;
+    padding:10px 0px 10px 10px;
+    font-size:28px;
+    font-weight: bold;
+    color: #d8c70e;
+    font-family:Arial;
+}
+
+.row .large-12 columns table thead tr th,
+.row .large-12 columns table tbody tr td
+{
+    text-align:center;
+}
+
+.marq
+{
+    text-align:justify;
+    font-family:'Trebuchet MS';
+    font-size:14px;
+}
+
+.mylogin
+{
+    width:40%;
+    height:auto;
+    margin:200px 30% 100px 30%;
+    padding:30px 20px 20px 30px;
+    background-color:#CCC;
+}
+
+#myfooter
+{
+    background-image:url('assets/Others/mybg1.fw.png');
+    background-repeat:repeat;
+    background-color:#161F27;
+    color:white;
+    padding:15px 0px 15px 0px;
+    font-family:'Trebuchet MS';
+    text-align:center;
+}
+
+.mybtn
+{
+    background-color:#984b13;
+    padding:10px;
+    color:#000;
+    width:150px;
+}
